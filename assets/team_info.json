@@ -1,0 +1,46 @@
+{
+  "team_info": [
+    {
+      "name": "ahrar",
+      "age": 34,
+      "country": "iran",
+      "description": "Ahrar is a tech-savvy individual who enjoys indulging in his passions for cars, gadgets, and video games."
+    },
+    {
+      "name": "hamed",
+      "age": 35,
+      "country": "iran",
+      "description": "Hamed is a unique individual who loves to immerse himself in the world of video games, has a passion for collecting and playing retro consoles, and enjoys the simple pleasure of a rice and yogurt meal.\n"
+    },
+    {
+      "name": "horam",
+      "age": 33,
+      "country": "iran",
+      "description": "Horam's interests are so intellectually demanding that his friends joke that spending time with him is like attending a lecture series on psychology, cognitive science, and design, all while listening to a symphony by Mozart - it's enough to make their heads spin. But at least they know who to turn to when they need help analyzing their dreams."
+    },
+    {
+      "name": "osama",
+      "age": 26,
+      "country": "syria",
+      "description": "Osama is a curious character with a quirky combination of interests - he loves to curl up with a good book, spend his free time swimming in the pool, and can't resist the charm of a fluffy feline. It's a combination that has his friends scratching their heads, but hey, who are we to judge?"
+    },
+    {
+      "name": "ramin",
+      "age": 33,
+      "country": "iran",
+      "description": "Ramin is an avid gamer who spends most of his free time playing CSGO and also enjoys watching and playing football."
+    },
+    {
+      "name": "weng",
+      "age": 21,
+      "country": "malaysia",
+      "description": "Weng is a true multitasker who can often be found watching a movie while playing badminton and competing in a round of video games, all while somehow managing to keep his popcorn bowl intact."
+    },
+    {
+      "name": "zohreh",
+      "age": 29,
+      "country": "iran",
+      "description": "Zohreh is a creative and cultured individual who loves to cook up a storm in the kitchen, explore the world through travel, express herself through artwork, and get lost in the pages of a good book - it's a wonder she has time for anything else besides making her friends jealous with her Instagram posts."
+    }
+  ]
+}
